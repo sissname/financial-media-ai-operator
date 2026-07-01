@@ -1,0 +1,4 @@
+interface:
+  display_name: "Financial Media AI Operator"
+  short_description: "Plan compliant AI workflows for financial media."
+  default_prompt: "Use $financial-media-ai-operator to design a compliant AI content workflow for a financial media or advisory team."
